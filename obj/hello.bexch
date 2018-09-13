@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__hello.o
+[PROJECT FILES]
+C:\Users\boutahar\Documents\AdaWorkSpace\001 First Ada Program\probando.gpr
+20180913145114
+[BOUND OBJECT FILES]
+C:\Users\boutahar\Documents\AdaWorkSpace\001 First Ada Program\obj\hello.o
+[GENERATED SOURCE FILES]
+b__hello.ads
+b__hello.adb
+b__hello.ali
+[RESULTING OPTIONS]
+-LC:\Users\boutahar\Documents\AdaWorkSpace\001 First Ada Program\obj\
+-LC:\Users\boutahar\Documents\AdaWorkSpace\001 First Ada Program\obj\
+-LC:/gnat/2018/lib/gcc/x86_64-pc-mingw32/7.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2018/lib/gcc/x86_64-pc-mingw32/7.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
